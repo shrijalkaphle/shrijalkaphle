@@ -1,16 +1,21 @@
-### Hi there 👋
+# Full Stack Developer Portfolio
 
-<!--
-**shrijalkaphle/shrijalkaphle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! I'm Shrijal Kaphle, a passionate Full Stack Developer with a keen interest in crafting efficient, scalable, and innovative solutions. This repository serves as a portfolio showcasing some of my projects and skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to mastering both frontend and backend technologies, allowing me to create seamless and dynamic web applications. My journey in software development has led me to explore a wide array of languages, frameworks, and tools, ensuring a comprehensive understanding of the development landscape.
+
+## Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Vue.js
+- **Backend:** Node.js, Express.js, Django, Flask, Ruby on Rails
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase)
+- **DevOps:** Docker, Kubernetes, CI/CD pipelines
+- **Other:** Git, RESTful APIs, GraphQL, AWS, Heroku
+
+## Get in Touch
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to discuss projects, tech ideas, or just to say hi!
+
+Let's innovate, collaborate, and build amazing things together! 🚀
