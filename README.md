@@ -1,6 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrijalkaphle&theme=tokyonight)
-
 # Full Stack Developer Portfolio
 
 Welcome to my GitHub repository! I'm Shrijal Kaphle, a passionate Full Stack Developer interested in crafting efficient, scalable, and innovative solutions. This repository serves as a portfolio showcasing some of my projects and skills.
