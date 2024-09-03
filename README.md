@@ -12,7 +12,7 @@ I'm dedicated to mastering both frontend and backend technologies, allowing me t
 - **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Vue.js
 - **Backend:** Node.js, Express.js, Django, Flask, Ruby on Rails
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase)
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
+- **DevOps:** Docker, CI/CD pipelines
 - **Other:** Git, RESTful APIs, GraphQL, AWS, Heroku
 
 ## Get in Touch
