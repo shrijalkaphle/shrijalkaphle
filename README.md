@@ -7,8 +7,6 @@ Welcome to my GitHub repository! I'm Shrijal Kaphle, a passionate Full Stack Dev
 
 I'm dedicated to mastering both frontend and backend technologies, allowing me to create seamless and dynamic web applications. My journey in software development has led me to explore various languages, frameworks, and tools, ensuring a comprehensive understanding of the development landscape.
 
-<a href="https://gitroll.io/profile/u7emL4FcFfafna0CNv8FKuPkzJSC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7emL4FcFfafna0CNv8FKuPkzJSC2" alt="GitRoll Profile Badge"/></a>
-
 ## Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Vue.js
